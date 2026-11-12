@@ -1,0 +1,18 @@
+/*Colours*/
+.Interduction {
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+}
+
+.Information {
+    background-color: #126c8a;
+    padding: 20px;
+    text-align: center;
+}
+
+.Conclusion {
+    background-color: #083163;
+    padding: 20px;
+    text-align: center;
+}
